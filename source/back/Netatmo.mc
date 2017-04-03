@@ -17,6 +17,7 @@ class Netatmo {
     var interior_datas = new InteriorDatas();
     var exterior_datas = new ExteriorDatas();
     var rain_datas = new RainDatas();
+    var user_preferences = new UserPreferences();
 
     function getToken(){
         var api = new CallApi(method(:callbackToken));
@@ -41,7 +42,11 @@ class Netatmo {
 
 
     function callbackDatas(data, responseCode){
-        
+        Sys.println("callbackDatas()");
+        Sys.println("data : " + data);
+        Sys.println("responseCode : " + responseCode);
+        Sys.println("test : " + data["body"]["user"]["administrative"]);
+        user_preferences.set(data["body"]["user"]["administrative"]);
         interior_datas = new InteriorDatas();
         interior_datas.updateInteriorDatas(data["body"]["devices"][0]["dashboard_data"]);
 

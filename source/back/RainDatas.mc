@@ -10,7 +10,7 @@ using Toybox.Attention as Attention;
 
 class RainDatas {
 
-	var rain = 0.0;
+	var rain = false;
 	var sum_rain_24 = 0.0;
 	var sum_rain_1 = 0.0;
 	var time = 0;
@@ -26,6 +26,6 @@ class RainDatas {
 		time = data["time_utc"];
 		sum_rain_24 = data["sum_rain_24"];
 		sum_rain_1 = data["sum_rain_1"];
-		rain = data["Rain"];
+		rain = !data["Rain"];
 	}
 }

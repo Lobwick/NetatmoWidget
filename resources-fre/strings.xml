@@ -1,0 +1,13 @@
+<strings>
+    <string id="CO2">CO2</string>
+	<string id="Humidity">Humidité</string>
+	<string id="Pressure">Pression</string>
+	<string id="Noise">Bruit</string>
+	<string id="Min">Min</string>
+	<string id="Max">Max</string>
+	<string id="Indoor">Intérieur</string>
+	<string id="Rain">Pluie</string>
+	<string id="Cumulative">Cumulé</string>
+	<string id="Updated">Mis à jour à</string>
+	<string id="Outdoor">Extérieur</string>
+</strings>

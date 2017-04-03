@@ -1,257 +1,394 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="18" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="22" pc="268435461" symbol="updateRainDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="23" pc="268435465" symbol="updateRainDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="24" pc="268435486" symbol="updateRainDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="26" pc="268435504" symbol="updateRainDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="27" pc="268435520" symbol="updateRainDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="28" pc="268435536" symbol="updateRainDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/RainDatas.mc" lineNum="29" pc="268435552" symbol="updateRainDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="16" pc="268435569" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="17" pc="268435573" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="21" pc="268435592" symbol="onLayout"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="24" pc="268435596" symbol="onLayout"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="25" pc="268435626" symbol="onLayout"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="37" pc="268435645" symbol="onShow"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="40" pc="268435650" symbol="layoutDisplay"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="41" pc="268435654" symbol="layoutDisplay"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="43" pc="268435690" symbol="layoutDisplay"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="45" pc="268435768" symbol="layoutDisplay"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="46" pc="268435842" symbol="layoutDisplay"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="47" pc="268435934" symbol="layoutDisplay"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="48" pc="268436008" symbol="layoutDisplay"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="53" pc="268436095" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="55" pc="268436099" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="56" pc="268436119" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="57" pc="268436138" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="60" pc="268436174" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="61" pc="268436255" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="63" pc="268436371" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="64" pc="268436458" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="67" pc="268436580" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="70" pc="268436661" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="72" pc="268436748" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="73" pc="268436847" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="76" pc="268436981" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="77" pc="268437074" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="80" pc="268437202" symbol="onUpdate"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="86" pc="268437289" symbol="onHide"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="6" pc="268437294" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="7" pc="268437298" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="11" pc="268437317" symbol="onStart"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="15" pc="268437322" symbol="onStop"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="19" pc="268437327" symbol="getInitialView"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="20" pc="268437331" symbol="getInitialView"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="21" pc="268437369" symbol="getToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="22" pc="268437373" symbol="getToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="23" pc="268437413" symbol="getToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="24" pc="268437420" symbol="getToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="31" pc="268437506" symbol="getToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="34" pc="268437569" symbol="getDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="35" pc="268437573" symbol="getDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="36" pc="268437613" symbol="getDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="37" pc="268437620" symbol="getDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="38" pc="268437644" symbol="getDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="43" pc="268437707" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="45" pc="268437711" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="46" pc="268437741" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="48" pc="268437785" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="50" pc="268437792" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="51" pc="268437820" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="52" pc="268437833" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="53" pc="268437841" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="54" pc="268437883" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="55" pc="268437911" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="56" pc="268437941" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="58" pc="268438001" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="59" pc="268438031" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="61" pc="268438063" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="63" pc="268438076" symbol="callbackDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="66" pc="268438093" symbol="callbackToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="69" pc="268438097" symbol="callbackToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="70" pc="268438113" symbol="callbackToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="71" pc="268438129" symbol="callbackToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="73" pc="268438145" symbol="callbackToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/Netatmo.mc" lineNum="74" pc="268438161" symbol="callbackToken"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="25" pc="268438175" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="29" pc="268438180" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="30" pc="268438184" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="31" pc="268438205" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="32" pc="268438223" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="33" pc="268438239" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="34" pc="268438255" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="35" pc="268438271" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="36" pc="268438287" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="37" pc="268438303" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="38" pc="268438319" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="39" pc="268438335" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="40" pc="268438351" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="41" pc="268438367" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/InteriorDatas.mc" lineNum="42" pc="268438383" symbol="updateInteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="22" pc="268438400" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="26" pc="268438405" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="27" pc="268438409" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="28" pc="268438430" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="30" pc="268438448" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="31" pc="268438464" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="32" pc="268438480" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="33" pc="268438496" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="34" pc="268438512" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="35" pc="268438528" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="36" pc="268438544" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/ExteriorDatas.mc" lineNum="37" pc="268438560" symbol="updateExteriorDatas"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="9" pc="268438577" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="10" pc="268438581" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="11" pc="268438603" symbol="initialize"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="14" pc="268438614" symbol="makeRequest"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="15" pc="268438618" symbol="makeRequest"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="22" pc="268438657" symbol="makeRequestWithCallBack"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="23" pc="268438661" symbol="makeRequestWithCallBack"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="31" pc="268438700" symbol="setInvokeFunction"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="32" pc="268438704" symbol="setInvokeFunction"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="35" pc="268438715" symbol="onReceive"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="36" pc="268438719" symbol="onReceive"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="37" pc="268438730" symbol="onReceive"/>
-<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/CallApis.mc" lineNum="39" pc="268438755" symbol="onReceive"/>
-<entry filename="Rez" lineNum="25" pc="268438793" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="27" pc="268438797" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="28" pc="268438928" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268438980" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="32" pc="268439032" symbol="MainLayout"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="7" pc="268435456" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="8" pc="268435460" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="9" pc="268435473" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="10" pc="268435490" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="12" pc="268435506" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="13" pc="268435519" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="14" pc="268435536" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="16" pc="268435569" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="18" pc="268435602" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="20" pc="268435635" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="22" pc="268435651" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="23" pc="268435664" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="24" pc="268435681" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="26" pc="268435714" symbol="set"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="30" pc="268435731" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="31" pc="268435735" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="33" pc="268435748" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/UserPreferences.mc" lineNum="35" pc="268435761" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="18" pc="268435775" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="22" pc="268435780" symbol="updateRainDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="23" pc="268435784" symbol="updateRainDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="24" pc="268435805" symbol="updateRainDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="26" pc="268435823" symbol="updateRainDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="27" pc="268435839" symbol="updateRainDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="28" pc="268435855" symbol="updateRainDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/RainDatas.mc" lineNum="29" pc="268435871" symbol="updateRainDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="22" pc="268435889" symbol="getToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="23" pc="268435893" symbol="getToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="24" pc="268435933" symbol="getToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="25" pc="268435940" symbol="getToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="32" pc="268436026" symbol="getToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="35" pc="268436089" symbol="getDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="36" pc="268436093" symbol="getDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="37" pc="268436133" symbol="getDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="38" pc="268436140" symbol="getDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="39" pc="268436164" symbol="getDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="44" pc="268436227" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="45" pc="268436231" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="46" pc="268436252" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="47" pc="268436276" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="48" pc="268436300" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="49" pc="268436342" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="50" pc="268436380" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="51" pc="268436410" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="53" pc="268436454" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="55" pc="268436461" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="56" pc="268436489" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="57" pc="268436502" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="58" pc="268436510" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="59" pc="268436552" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="60" pc="268436580" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="61" pc="268436610" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="63" pc="268436670" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="64" pc="268436700" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="66" pc="268436732" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="68" pc="268436745" symbol="callbackDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="71" pc="268436762" symbol="callbackToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="74" pc="268436766" symbol="callbackToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="75" pc="268436782" symbol="callbackToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="76" pc="268436798" symbol="callbackToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="78" pc="268436814" symbol="callbackToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/Netatmo.mc" lineNum="79" pc="268436830" symbol="callbackToken"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="25" pc="268436844" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="29" pc="268436849" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="30" pc="268436853" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="31" pc="268436874" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="32" pc="268436892" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="33" pc="268436908" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="34" pc="268436924" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="35" pc="268436940" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="36" pc="268436956" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="37" pc="268436972" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="38" pc="268436988" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="39" pc="268437004" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="40" pc="268437020" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="41" pc="268437036" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/InteriorDatas.mc" lineNum="42" pc="268437052" symbol="updateInteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="22" pc="268437069" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="26" pc="268437074" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="27" pc="268437078" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="28" pc="268437099" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="30" pc="268437117" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="31" pc="268437133" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="32" pc="268437149" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="33" pc="268437165" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="34" pc="268437181" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="35" pc="268437197" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="36" pc="268437213" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/ExteriorDatas.mc" lineNum="37" pc="268437229" symbol="updateExteriorDatas"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="9" pc="268437246" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="10" pc="268437250" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="11" pc="268437272" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="14" pc="268437283" symbol="makeRequest"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="15" pc="268437287" symbol="makeRequest"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="22" pc="268437326" symbol="makeRequestWithCallBack"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="23" pc="268437330" symbol="makeRequestWithCallBack"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="31" pc="268437369" symbol="setInvokeFunction"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="32" pc="268437373" symbol="setInvokeFunction"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="35" pc="268437384" symbol="onReceive"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="36" pc="268437388" symbol="onReceive"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="37" pc="268437399" symbol="onReceive"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/back/CallApis.mc" lineNum="39" pc="268437424" symbol="onReceive"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="15" pc="268437462" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="16" pc="268437466" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="20" pc="268437485" symbol="onLayout"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="36" pc="268437490" symbol="onShow"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="37" pc="268437494" symbol="onShow"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="41" pc="268437513" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="42" pc="268437517" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="44" pc="268437553" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="46" pc="268437631" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="47" pc="268437705" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="48" pc="268437797" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="49" pc="268437871" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="54" pc="268437958" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="56" pc="268437962" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="57" pc="268437982" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="58" pc="268438018" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="59" pc="268438069" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="60" pc="268438118" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="63" pc="268438154" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="64" pc="268438235" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="66" pc="268438357" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="67" pc="268438474" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="70" pc="268438617" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="71" pc="268438727" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="74" pc="268438829" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="76" pc="268439034" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="77" pc="268439163" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="80" pc="268439297" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="81" pc="268439420" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="84" pc="268439548" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetView.mc" lineNum="90" pc="268439635" symbol="onHide"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="19" pc="268439640" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="20" pc="268439644" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="21" pc="268439662" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="25" pc="268439693" symbol="onStart"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="31" pc="268439698" symbol="onStop"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="35" pc="268439703" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="36" pc="268439707" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="43" pc="268439775" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="44" pc="268439779" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="47" pc="268439798" symbol="onSelect"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/NetatmoWidgetApp.mc" lineNum="48" pc="268439802" symbol="onSelect"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="14" pc="268439875" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="15" pc="268439879" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="19" pc="268439898" symbol="onStart"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="24" pc="268439903" symbol="onStop"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="28" pc="268439908" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="29" pc="268439912" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="32" pc="268439950" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="33" pc="268439954" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="34" pc="268440026" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="37" pc="268440030" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="38" pc="268440034" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRainDelegate.mc" lineNum="39" pc="268440106" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="16" pc="268440110" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="17" pc="268440114" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="21" pc="268440133" symbol="onLayout"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="37" pc="268440138" symbol="onShow"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="40" pc="268440143" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="41" pc="268440147" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="43" pc="268440183" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="44" pc="268440261" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="48" pc="268440335" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="49" pc="268440409" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="50" pc="268440501" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="56" pc="268440576" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="57" pc="268440580" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="59" pc="268440601" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="60" pc="268440621" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="62" pc="268440670" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="64" pc="268440706" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="65" pc="268440706" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="66" pc="268440736" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="67" pc="268440772" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="68" pc="268440814" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="69" pc="268440840" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="71" pc="268440967" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="73" pc="268441091" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="77" pc="268441105" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="78" pc="268441228" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="81" pc="268441350" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="82" pc="268441473" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayRain.mc" lineNum="97" pc="268441602" symbol="onHide"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="14" pc="268441607" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="15" pc="268441611" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="19" pc="268441630" symbol="onStart"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="24" pc="268441635" symbol="onStop"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="28" pc="268441640" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="29" pc="268441644" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="32" pc="268441682" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="33" pc="268441686" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="34" pc="268441758" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="37" pc="268441762" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="38" pc="268441766" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoorDelegate.mc" lineNum="39" pc="268441838" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="16" pc="268441842" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="17" pc="268441846" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="21" pc="268441865" symbol="onLayout"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="37" pc="268441870" symbol="onShow"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="40" pc="268441875" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="41" pc="268441879" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="43" pc="268441915" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="44" pc="268441993" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="48" pc="268442067" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="49" pc="268442141" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="54" pc="268442222" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="56" pc="268442226" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="57" pc="268442246" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="59" pc="268442295" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="63" pc="268442331" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="64" pc="268442441" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="67" pc="268442543" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="68" pc="268442630" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="71" pc="268442752" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="72" pc="268442845" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayOutdoor.mc" lineNum="80" pc="268442974" symbol="onHide"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="14" pc="268442979" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="15" pc="268442983" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="19" pc="268443002" symbol="onStart"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="24" pc="268443007" symbol="onStop"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="28" pc="268443012" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="29" pc="268443016" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="32" pc="268443054" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="33" pc="268443058" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="34" pc="268443130" symbol="onNextPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="37" pc="268443134" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="38" pc="268443138" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoorDelegate.mc" lineNum="39" pc="268443210" symbol="onPreviousPage"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="16" pc="268443214" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="17" pc="268443218" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="21" pc="268443237" symbol="onLayout"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="36" pc="268443242" symbol="onShow"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="39" pc="268443247" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="40" pc="268443251" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="42" pc="268443287" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="44" pc="268443365" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="45" pc="268443439" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="46" pc="268443531" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="47" pc="268443605" symbol="layoutDisplay"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="52" pc="268443692" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="54" pc="268443696" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="55" pc="268443716" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="56" pc="268443765" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="59" pc="268443801" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="60" pc="268443882" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="62" pc="268444004" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="63" pc="268444121" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="66" pc="268444264" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="67" pc="268444374" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="69" pc="268444476" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="71" pc="268444681" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="72" pc="268444810" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="75" pc="268444944" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="76" pc="268445067" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="79" pc="268445195" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/NetatmoWidget/source/DisplayIndoor.mc" lineNum="85" pc="268445282" symbol="onHide"/>
+<entry filename="Rez" lineNum="32" pc="268445287" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268445291" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268445422" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268445474" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268445526" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
+<entry field="true" id="50" symbol="Updated"/>
+<entry id="20" object="true" symbol="DisplayOutdoorDelegate"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry id="23" method="true" symbol="updateExteriorDatas"/>
+<entry field="true" id="36" symbol="user_preferences"/>
+<entry field="true" id="44" symbol="Rain"/>
+<entry id="73" method="true" symbol="updateExteriorDatas"/>
+<entry field="true" id="56" symbol="Indoor"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="8388645" symbol="Time"/>
-<entry field="true" id="33" symbol="exterior_datas"/>
-<entry id="12" object="true" symbol="Netatmo"/>
+<entry field="true" id="34" symbol="exterior_datas"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="10" object="true" symbol="Netatmo"/>
+<entry field="true" id="55" symbol="Outdoor"/>
 <entry id="8388770" module="true" symbol="Strings"/>
-<entry id="35" method="true" symbol="getToken"/>
-<entry field="true" id="51" symbol="CO2"/>
+<entry id="37" method="true" symbol="getToken"/>
+<entry field="true" id="53" symbol="CO2"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry field="true" id="20" symbol="min_temp"/>
+<entry field="true" id="65" symbol="min_temp"/>
 <entry id="47" method="true" symbol="MainLayout"/>
-<entry field="true" id="21" symbol="max_temp"/>
-<entry field="true" id="10" symbol="res"/>
-<entry field="true" id="41" symbol="sum_rain_1"/>
+<entry field="true" id="66" symbol="max_temp"/>
+<entry id="8" object="true" symbol="UserPreferences"/>
+<entry field="true" id="76" symbol="sum_rain_1"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="59" method="true" symbol="updateInteriorDatas"/>
+<entry id="18" object="true" symbol="DisplayRainDelegate"/>
+<entry id="68" method="true" symbol="updateInteriorDatas"/>
 <entry id="8388636" symbol="Attention"/>
-<entry field="true" id="32" symbol="interior_datas"/>
+<entry field="true" id="33" symbol="interior_datas"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="19" symbol="date_min_temp"/>
-<entry id="38" method="true" symbol="callbackToken"/>
-<entry field="true" id="54" symbol="AppName"/>
-<entry field="true" id="18" symbol="date_max_temp"/>
-<entry id="25" method="true" symbol="makeRequest"/>
-<entry id="27" method="true" symbol="setInvokeFunction"/>
+<entry field="true" id="64" symbol="date_min_temp"/>
+<entry id="40" method="true" symbol="callbackToken"/>
+<entry field="true" id="58" symbol="AppName"/>
+<entry field="true" id="63" symbol="date_max_temp"/>
+<entry id="26" method="true" symbol="makeRequest"/>
+<entry id="28" method="true" symbol="setInvokeFunction"/>
 <entry field="true" id="8388962" symbol="temperature"/>
+<entry id="22" object="true" symbol="DisplayIndoorDelegate"/>
+<entry field="true" id="70" symbol="windunit"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
 <entry field="true" id="8388964" symbol="pressure"/>
 <entry field="true" id="46" symbol="LauncherIcon"/>
+<entry field="true" id="69" symbol="unit"/>
 <entry id="8388786" symbol="method"/>
-<entry field="true" id="17" symbol="humidity"/>
+<entry field="true" id="61" symbol="humidity"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="53" symbol="Pressure"/>
+<entry field="true" id="57" symbol="Pressure"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="57" symbol="noise"/>
-<entry id="56" method="true" symbol="layoutDisplay"/>
-<entry field="true" id="29" symbol="access_token"/>
+<entry field="true" id="59" symbol="noise"/>
+<entry id="24" method="true" symbol="layoutDisplay"/>
+<entry field="true" id="30" symbol="access_token"/>
 <entry field="true" id="45" symbol="id_monkey"/>
-<entry id="14" object="true" symbol="ExteriorDatas"/>
-<entry field="true" id="24" symbol="notify"/>
-<entry field="true" id="55" symbol="netatmo"/>
-<entry field="true" id="52" symbol="Humidity"/>
-<entry field="true" id="39" symbol="rain"/>
-<entry id="26" method="true" symbol="makeRequestWithCallBack"/>
-<entry field="true" id="40" symbol="sum_rain_24"/>
-<entry field="true" id="22" symbol="time"/>
-<entry id="8" object="true" symbol="RainDatas"/>
-<entry field="true" id="49" symbol="Noise"/>
-<entry id="44" module="true" symbol="Layouts"/>
+<entry field="true" id="48" symbol="Cumulative"/>
+<entry id="12" object="true" symbol="ExteriorDatas"/>
+<entry field="true" id="25" symbol="notify"/>
+<entry id="21" object="true" symbol="DisplayOutdoor"/>
+<entry field="true" id="15" symbol="netatmo"/>
+<entry field="true" id="54" symbol="Humidity"/>
+<entry id="23" object="true" symbol="DisplayIndoor"/>
+<entry field="true" id="74" symbol="rain"/>
+<entry id="27" method="true" symbol="makeRequestWithCallBack"/>
+<entry field="true" id="71" symbol="pressureunit"/>
+<entry field="true" id="75" symbol="sum_rain_24"/>
+<entry field="true" id="67" symbol="time"/>
+<entry id="17" object="true" symbol="NetatmoWidgetDelegate"/>
+<entry id="9" object="true" symbol="RainDatas"/>
+<entry field="true" id="51" symbol="Noise"/>
+<entry id="42" module="true" symbol="Layouts"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry id="15" object="true" symbol="CallApi"/>
-<entry field="true" id="48" symbol="Min"/>
-<entry id="36" method="true" symbol="getDatas"/>
+<entry id="13" object="true" symbol="CallApi"/>
+<entry field="true" id="49" symbol="Min"/>
+<entry field="true" id="43" symbol="Sun"/>
+<entry id="38" method="true" symbol="getDatas"/>
 <entry id="8389345" symbol="rezId"/>
-<entry field="true" id="30" symbol="refresh_token"/>
+<entry id="19" object="true" symbol="DisplayRain"/>
+<entry field="true" id="31" symbol="refresh_token"/>
 <entry id="8389063" symbol="identifier"/>
-<entry id="13" object="true" symbol="InteriorDatas"/>
-<entry field="true" id="50" symbol="Max"/>
-<entry id="9" object="true" symbol="NetatmoWidgetView"/>
-<entry id="43" module="true" symbol="Menus"/>
-<entry field="true" id="31" symbol="expires_in"/>
-<entry field="true" id="16" symbol="temp_trend"/>
-<entry id="28" method="true" symbol="onReceive"/>
-<entry id="42" method="true" symbol="updateRainDatas"/>
+<entry id="11" object="true" symbol="InteriorDatas"/>
+<entry field="true" id="52" symbol="Max"/>
+<entry id="14" object="true" symbol="NetatmoWidgetView"/>
+<entry id="41" module="true" symbol="Menus"/>
+<entry field="true" id="32" symbol="expires_in"/>
+<entry field="true" id="62" symbol="temp_trend"/>
+<entry id="29" method="true" symbol="onReceive"/>
+<entry id="77" method="true" symbol="updateRainDatas"/>
+<entry id="72" method="true" symbol="set"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
-<entry field="true" id="58" symbol="co"/>
-<entry id="11" object="true" symbol="NetatmoWidgetApp"/>
-<entry field="true" id="34" symbol="rain_datas"/>
-<entry id="37" method="true" symbol="callbackDatas"/>
+<entry field="true" id="60" symbol="co"/>
+<entry id="16" object="true" symbol="NetatmoWidgetApp"/>
+<entry field="true" id="35" symbol="rain_datas"/>
+<entry id="39" method="true" symbol="callbackDatas"/>
 </symbolTable>
 <localVars>
-<entry endPc="268437568" name="url" stackId="2" startPc="268437373"/>
-<entry endPc="268437568" name="api" stackId="1" startPc="268437373"/>
-<entry endPc="268437568" name="params" stackId="3" startPc="268437373"/>
-<entry endPc="268437706" name="url" stackId="2" startPc="268437573"/>
-<entry endPc="268437706" name="api" stackId="1" startPc="268437573"/>
-<entry endPc="268437706" name="params" stackId="3" startPc="268437573"/>
-<entry endPc="268438092" name="modules" stackId="4" startPc="268437711"/>
-<entry endPc="268438092" name="size" stackId="5" startPc="268437711"/>
-<entry endPc="268438092" name="i" stackId="3" startPc="268437711"/>
-<entry endPc="268439049" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268438797"/>
+<entry endPc="268436088" name="url" stackId="2" startPc="268435893"/>
+<entry endPc="268436088" name="api" stackId="1" startPc="268435893"/>
+<entry endPc="268436088" name="params" stackId="3" startPc="268435893"/>
+<entry endPc="268436226" name="url" stackId="2" startPc="268436093"/>
+<entry endPc="268436226" name="api" stackId="1" startPc="268436093"/>
+<entry endPc="268436226" name="params" stackId="3" startPc="268436093"/>
+<entry endPc="268436761" name="modules" stackId="4" startPc="268436231"/>
+<entry endPc="268436761" name="size" stackId="5" startPc="268436231"/>
+<entry endPc="268436761" name="i" stackId="3" startPc="268436231"/>
+<entry endPc="268441601" name="iconWeather" stackId="2" startPc="268440580"/>
+<entry endPc="268445543" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268445291"/>
 </localVars>
 <annotations/>
 <functions>
+<functionEntry name="set" parent="UserPreferences">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="UserPreferences">
+<documentation/>
+</functionEntry>
 <functionEntry name="initialize" parent="RainDatas">
 <documentation/>
 </functionEntry>
 <functionEntry name="updateRainDatas" parent="RainDatas">
 <param id="data"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="initialize" parent="NetatmoWidgetView">
-<documentation/>
-</functionEntry>
-<functionEntry name="onLayout" parent="NetatmoWidgetView">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="onShow" parent="NetatmoWidgetView">
-<documentation/>
-</functionEntry>
-<functionEntry name="layoutDisplay" parent="NetatmoWidgetView">
-<param id="dc"/>
-<param id="title"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="onUpdate" parent="NetatmoWidgetView">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="onHide" parent="NetatmoWidgetView">
-<documentation/>
-</functionEntry>
-<functionEntry name="initialize" parent="NetatmoWidgetApp">
-<documentation/>
-</functionEntry>
-<functionEntry name="onStart" parent="NetatmoWidgetApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="onStop" parent="NetatmoWidgetApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="getInitialView" parent="NetatmoWidgetApp">
 <documentation/>
 </functionEntry>
 <functionEntry name="getToken" parent="Netatmo">
@@ -307,6 +444,174 @@
 <functionEntry name="onReceive" parent="CallApi">
 <param id="responseCode"/>
 <param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NetatmoWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="NetatmoWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="NetatmoWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry name="layoutDisplay" parent="NetatmoWidgetView">
+<param id="dc"/>
+<param id="title"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="NetatmoWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="NetatmoWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NetatmoWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="NetatmoWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="NetatmoWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="NetatmoWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NetatmoWidgetDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="NetatmoWidgetDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DisplayRainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DisplayRainDelegate">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="DisplayRainDelegate">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DisplayRainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="DisplayRainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="DisplayRainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DisplayRain">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DisplayRain">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DisplayRain">
+<documentation/>
+</functionEntry>
+<functionEntry name="layoutDisplay" parent="DisplayRain">
+<param id="dc"/>
+<param id="title"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DisplayRain">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DisplayRain">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DisplayOutdoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DisplayOutdoorDelegate">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="DisplayOutdoorDelegate">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DisplayOutdoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="DisplayOutdoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="DisplayOutdoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DisplayOutdoor">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DisplayOutdoor">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DisplayOutdoor">
+<documentation/>
+</functionEntry>
+<functionEntry name="layoutDisplay" parent="DisplayOutdoor">
+<param id="dc"/>
+<param id="title"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DisplayOutdoor">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DisplayOutdoor">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DisplayIndoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DisplayIndoorDelegate">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="DisplayIndoorDelegate">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DisplayIndoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="DisplayIndoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="DisplayIndoorDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DisplayIndoor">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DisplayIndoor">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DisplayIndoor">
+<documentation/>
+</functionEntry>
+<functionEntry name="layoutDisplay" parent="DisplayIndoor">
+<param id="dc"/>
+<param id="title"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DisplayIndoor">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DisplayIndoor">
 <documentation/>
 </functionEntry>
 <functionEntry name="MainLayout" parent="Layouts">

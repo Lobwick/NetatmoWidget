@@ -1,9 +1,17 @@
 <strings>
     <string id="AppName">NetatmoWidget</string>
     <string id="CO2">CO2</string>
-	<string id="Humidity">Humidité</string>
-	<string id="Pressure">Pression</string>
-	<string id="Noise">Bruit</string>
+	<string id="Humidity">Humidity</string>
+	<string id="Pressure">Pressure</string>
+	<string id="Noise">Noise</string>
 	<string id="Min">Min</string>
 	<string id="Max">Max</string>
+	<string id="Indoor">Indoor</string>
+	<string id="Outdoor">Outdoor</string>
+	<string id="Rain">Rain</string>
+	<string id="Cumulative">Cumulative</string>
+	<string id="Updated">Updated at</string>
 </strings>
+
+
+<!-- Ui.loadResource(Rez.Strings.Indoor) -->
