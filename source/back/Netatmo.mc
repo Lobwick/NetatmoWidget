@@ -26,7 +26,7 @@ class Netatmo {
                         "client_secret" => "nULZAxKSTMcksN79fXapr4npH4OAU",
                         "grant_type" => "password",
                         "username" => "lobwick@hotmail.fr",
-                        "password" => "Moulinum_0",
+                        "password" => "dezdezd",
                         "scope" => "read_station"};
                         //{"Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED}
         api.makeRequest(url, params, { :method => Comm.HTTP_REQUEST_METHOD_POST, "Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED});
