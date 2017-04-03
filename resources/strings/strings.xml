@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">NetatmoWidget</string>
+    <string id="CO2">CO2</string>
+	<string id="Humidity">Humidité</string>
+	<string id="Pressure">Pression</string>
+	<string id="Noise">Bruit</string>
+	<string id="Min">Min</string>
+	<string id="Max">Max</string>
+</strings>
