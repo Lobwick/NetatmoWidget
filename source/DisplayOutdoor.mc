@@ -39,12 +39,11 @@ class DisplayOutdoor extends Ui.View {
 
     function layoutDisplay(dc, title){
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-          // display title
+        // display title
         dc.drawText((dc.getWidth() / 2), (dc.getHeight() / 5) -40, Gfx.FONT_SYSTEM_XTINY, title, Gfx.TEXT_JUSTIFY_CENTER);
-         dc.drawLine(0, (dc.getHeight() /8) - 5, dc.getWidth(), (dc.getHeight() /8) -5);    
+        dc.drawLine(0, (dc.getHeight() /8) - 5, dc.getWidth(), (dc.getHeight() /8) -5);    
         // draw lines
-       
-        //
+        
         dc.drawLine(0, (dc.getHeight()  /2)+20, dc.getWidth(), (dc.getHeight()  /2)+20);
         dc.drawLine((dc.getWidth()/2), (dc.getHeight()  /2)+20, (dc.getWidth()/2), (dc.getHeight() ));
        
@@ -58,10 +57,20 @@ class DisplayOutdoor extends Ui.View {
         //display temp exterior_datas
         dc.setColor(Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT);
         
-               
+        
+        var iconTemp = null;
+        if (netatmo.exterior_datas.temp_trend.equals("stable")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Stable,:locX=>(dc.getWidth() / 2)-75,:locY=>(dc.getHeight() /2)-60});
+        }else if (netatmo.exterior_datas.temp_trend.equals("up")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Up,:locX=>(dc.getWidth() / 2)-75,:locY=>(dc.getHeight() /2)-60});
+        }else if (netatmo.exterior_datas.temp_trend.equals("down")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Down,:locX=>(dc.getWidth() / 2)-75,:locY=>(dc.getHeight() /2)-60});
+        }
+        iconTemp.draw(dc);
+       
 
-        dc.drawText((dc.getWidth() / 2), (dc.getHeight() /2)-50, Gfx.FONT_NUMBER_MEDIUM, netatmo.exterior_datas.temperature.format("%.1f"), Gfx.TEXT_JUSTIFY_CENTER);
-        dc.drawText((dc.getWidth() / 2)+50, (dc.getHeight() /2)-48, Gfx.FONT_SYSTEM_LARGE, netatmo.user_preferences.unit, Gfx.TEXT_JUSTIFY_CENTER);
+        dc.drawText((dc.getWidth() / 2)+10, (dc.getHeight() /2)-50, Gfx.FONT_NUMBER_MEDIUM, netatmo.exterior_datas.temperature.format("%.1f"), Gfx.TEXT_JUSTIFY_CENTER);
+        dc.drawText((dc.getWidth() / 2)+60, (dc.getHeight() /2)-48, Gfx.FONT_SYSTEM_LARGE, netatmo.user_preferences.unit, Gfx.TEXT_JUSTIFY_CENTER);
         
         //display temp exterior_datas min
         dc.drawText((dc.getWidth() / 3)-10, (dc.getHeight() /2)+20, Gfx.FONT_SYSTEM_XTINY, "Min", Gfx.TEXT_JUSTIFY_CENTER);

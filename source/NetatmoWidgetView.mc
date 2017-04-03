@@ -18,14 +18,19 @@ class NetatmoWidgetView extends Ui.View {
 
     // Load your resources here
     function onLayout(dc) {
-       // setLayout(Rez.Layouts.MainLayout(dc));
+        //setLayout(Rez.Layouts.MainLayout(dc));
        //getToken();
      //  netatmo = new Netatmo();
        //netatmo.getToken();
+        //var twomoulins = new Ui.Bitmap({:rezId=>Rez.Drawables.TwoMoulins,:locX=>10,:locY=>5});
+       // twomoulins.draw(dc);    
+          //      dc.setColor(Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT);
 
+       // dc.drawText((dc.getWidth() / 2), (dc.getHeight() / 5)*5 -20, Gfx.ARC_COUNTER_CLOCKWISE, "Chargement", Gfx.TEXT_JUSTIFY_CENTER);
 
+        netatmo.getToken();
         
-    
+        
     }
 
     
@@ -34,13 +39,13 @@ class NetatmoWidgetView extends Ui.View {
     // the state of this View and prepare it to be shown. This includes
     // loading resources into memory.
     function onShow() {
-        netatmo.getToken();
+       
 
     }
 
     function layoutDisplay(dc, title){
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-          // display title
+        // display title
         dc.drawText((dc.getWidth() / 2), (dc.getHeight() / 5) -40, Gfx.FONT_SYSTEM_XTINY, title, Gfx.TEXT_JUSTIFY_CENTER);
         // draw lines
         dc.drawLine(0, (dc.getHeight() /8) - 5, dc.getWidth(), (dc.getHeight() /8) -5);
@@ -69,8 +74,15 @@ class NetatmoWidgetView extends Ui.View {
         //display temp
         dc.drawText((dc.getWidth() / 2), (dc.getHeight() /2)-18, Gfx.FONT_NUMBER_MEDIUM, netatmo.interior_datas.temperature.format("%.1f"), Gfx.TEXT_JUSTIFY_CENTER);
         dc.drawText((dc.getWidth() / 2)+50, (dc.getHeight() /2)-16, Gfx.FONT_SYSTEM_LARGE, netatmo.user_preferences.unit, Gfx.TEXT_JUSTIFY_CENTER);
-
-
+        var iconTemp = null;
+        if (netatmo.exterior_datas.temp_trend.equals("stable")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Stable,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-30});
+        }else if (netatmo.exterior_datas.temp_trend.equals("up")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Up,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-30});
+        }else if (netatmo.exterior_datas.temp_trend.equals("down")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Down,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-30});
+        }
+        iconTemp.draw(dc);
         dc.drawText((dc.getWidth() / 2), (dc.getHeight()  /4)*3-10, Gfx.FONT_SYSTEM_XTINY, "Max : "+netatmo.interior_datas.max_temp.format("%.1f") + netatmo.user_preferences.unit + " Min : " + netatmo.interior_datas.min_temp.format("%.1f") + netatmo.user_preferences.unit, Gfx.TEXT_JUSTIFY_CENTER);
         //display humidity
         dc.drawText((dc.getWidth() / 3)*2+10, (dc.getHeight()  /4)*3+10, Gfx.FONT_SYSTEM_XTINY, Ui.loadResource( Rez.Strings.Humidity ), Gfx.TEXT_JUSTIFY_CENTER);

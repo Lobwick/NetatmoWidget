@@ -30,12 +30,17 @@ class DisplayRainDelegate extends Ui.BehaviorDelegate {
     }
 
     function onNextPage() {
-        Ui.pushView(new DisplayIndoor(), new DisplayIndoorDelegate(), Ui.SLIDE_IMMEDIATE);
+        Ui.switchToView(new DisplayIndoor(), new DisplayIndoorDelegate(), Ui.SLIDE_LEFT);
+
+       // Ui.pushView(new DisplayIndoor(), new DisplayIndoorDelegate(), Ui.SLIDE_IMMEDIATE);
         return false;
     }
 
     function onPreviousPage() {
-        Ui.pushView(new DisplayOutdoor(), new DisplayOutdoorDelegate(), Ui.SLIDE_IMMEDIATE);
+        //Ui.popView(Ui.SLIDE_IMMEDIATE);
+        Ui.switchToView(new DisplayOutdoor(), new DisplayOutdoorDelegate(), Ui.SLIDE_LEFT);
+
+        //Ui.pushView(new DisplayOutdoor(), new DisplayOutdoorDelegate(), Ui.SLIDE_IMMEDIATE);
         return false;
     }
 }

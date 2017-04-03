@@ -47,16 +47,25 @@ class DisplayRain extends Ui.View {
         //display rain
         dc.setColor(Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT);
         
+        //var iconWeather;
+        //if (netatmo.rain_datas.rain == true){
+         //  iconWeather = new Ui.Bitmap({:rezId=>Rez.Drawables.Sun,:locX=>(dc.getWidth() / 2)-30,:locY=>(dc.getHeight() /2)-62});
+        //}else {
+         //    iconWeather = new Ui.Bitmap({:rezId=>Rez.Drawables.Rain,:locX=>(dc.getWidth() / 2)-30,:locY=>(dc.getHeight() /2)-62});
+        //}
+        //iconWeather.draw(dc);    
+
+
+
+        dc.drawText((dc.getWidth() / 2)+10, (dc.getHeight() /2)-50, Gfx.FONT_NUMBER_MEDIUM, netatmo.rain_datas.rain.format("%.1f"), Gfx.TEXT_JUSTIFY_CENTER);
+        dc.drawText((dc.getWidth() / 2)+60, (dc.getHeight() /2)-48, Gfx.FONT_SYSTEM_LARGE, "mm", Gfx.TEXT_JUSTIFY_CENTER);
         var iconWeather;
-        Sys.println("test = " + netatmo);
-        Sys.println("test = " + netatmo.rain_datas);
-        Sys.println("test = " + netatmo.rain_datas.rain);
-        if (netatmo.rain_datas.rain == true){
-           iconWeather = new Ui.Bitmap({:rezId=>Rez.Drawables.Sun,:locX=>(dc.getWidth() / 2)-30,:locY=>(dc.getHeight() /2)-62});
+        if (netatmo.rain_datas.rain > 0.0){
+            iconWeather = new Ui.Bitmap({:rezId=>Rez.Drawables.Rain,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-60});
         }else {
-             iconWeather = new Ui.Bitmap({:rezId=>Rez.Drawables.Rain,:locX=>(dc.getWidth() / 2)-30,:locY=>(dc.getHeight() /2)-62});
+            iconWeather = new Ui.Bitmap({:rezId=>Rez.Drawables.Sun,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-60});
         }
-        iconWeather.draw(dc);    
+        iconWeather.draw(dc);
 
         //dc.drawText((dc.getWidth() / 2), (dc.getHeight() /2)-50, Gfx.FONT_NUMBER_MEDIUM, netatmo.interior_datas.temperature.format("%.1f")+"°", Gfx.TEXT_JUSTIFY_CENTER);
         //display rain hour

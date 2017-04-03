@@ -26,7 +26,7 @@ class Netatmo {
                         "client_secret" => "nULZAxKSTMcksN79fXapr4npH4OAU",
                         "grant_type" => "password",
                         "username" => "lobwick@hotmail.fr",
-                        "password" => "dezdezd",
+                        "password" => "dzedzed",
                         "scope" => "read_station"};
                         //{"Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED}
         api.makeRequest(url, params, { :method => Comm.HTTP_REQUEST_METHOD_POST, "Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED});
@@ -69,8 +69,7 @@ class Netatmo {
     }
 
     function callbackToken(data, responseCode){
-        //res = data["access_token"];
-
+        Sys.println("callbackToken");
         access_token = data["access_token"];
         refresh_token = data["refresh_token"];
         expires_in = data["expires_in"];

@@ -63,6 +63,15 @@ class DisplayIndoor extends Ui.View {
         dc.drawText((dc.getWidth() / 3)*2+10, (dc.getHeight()  /10)+15, Gfx.FONT_SYSTEM_XTINY, netatmo.interior_datas.co.format("%.1f")+netatmo.user_preferences.pressureunit, Gfx.TEXT_JUSTIFY_CENTER);
 
         //display temp
+        var iconTemp = null;
+        if (netatmo.exterior_datas.temp_trend.equals("stable")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Stable,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-30});
+        }else if (netatmo.exterior_datas.temp_trend.equals("up")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Up,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-30});
+        }else if (netatmo.exterior_datas.temp_trend.equals("down")){
+            iconTemp = new Ui.Bitmap({:rezId=>Rez.Drawables.Down,:locX=>(dc.getWidth() / 2)-80,:locY=>(dc.getHeight() /2)-30});
+        }
+        iconTemp.draw(dc);
         dc.drawText((dc.getWidth() / 2), (dc.getHeight() /2)-18, Gfx.FONT_NUMBER_MEDIUM, netatmo.interior_datas.temperature.format("%.1f"), Gfx.TEXT_JUSTIFY_CENTER);
         dc.drawText((dc.getWidth() / 2)+50, (dc.getHeight() /2)-16, Gfx.FONT_SYSTEM_LARGE, netatmo.user_preferences.unit, Gfx.TEXT_JUSTIFY_CENTER);
 
